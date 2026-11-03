@@ -11,6 +11,7 @@ A python based student management systen built using streamlit and SQLite.
 -Student performance Dashboard
 -SGPA visualisation
 -SQLite database
+-calculation
 
 ## Technologies used
 -python
@@ -18,4 +19,5 @@ A python based student management systen built using streamlit and SQLite.
 -SQLite
 -Pandas
 -Git
--GitHub
+-GitHub 
+-amdroid 
